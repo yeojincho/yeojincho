@@ -39,7 +39,8 @@ This is my github
 <h2>Contact</h2>
 
 
-[![](https://img.shields.io/badge/-gmail-grey?logo=gmail)](mailto:"yeojincho0129@gmail.com")   [![](https://img.shields.io/badge/-Notion-0066ff?logo=Notion)](src:"https://thundering-rayon-efa.notion.site/67d95f91cc7c49929180a7fb52442a73")
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=square&logo=Gmail&logoColor=white&link=mailto:yeojincho0129@gmail.com)](mailto:yeojincho0129@gmail.com)   [![Notion Badge](https://img.shields.io/badge/Notion-1877f2?style=square&logo=Notion&logoColor=white&link=https://thundering-rayon-efa.notion.site/67d95f91cc7c49929180a7fb52442a73)](https://thundering-rayon-efa.notion.site/67d95f91cc7c49929180a7fb52442a73)
 
 
 
