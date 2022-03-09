@@ -36,7 +36,7 @@ This is my github
 
 <br><br>
 
-<h2>Contact</h2>
+<h2>📮Contact📮</h2>
 
 
 
@@ -45,11 +45,7 @@ This is my github
 
 
 <br><br>
-<div>
-  
-![하울의_움직이는_성](https://user-images.githubusercontent.com/86069422/154220338-12d33e43-01af-4fb6-9568-238c35a01c5b.gif)
-  
-</div>
+
 
 
 
