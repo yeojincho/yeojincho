@@ -1,16 +1,26 @@
+<div align=center>
 
-<h1> Hello! I'm yeojin cho👋🏻 </h1>
+![header](https://capsule-render.vercel.app/api?height=300&color=auto&type=wave&section=header&text=I'm%20YeoJin%20👋🏻%20&fontSize=90)
 
-I am front-end developer. 
-This is my github
+ 
+
+<h2>👋🏻 Hi there</h2>
+
 
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?tab=repositories&url=https%3A%2F%2Fgithub.com%2Fyeojincho&count_bg=%23E9ABFC&title_bg=%23FFA5A5&icon=github.svg&icon_color=%23020202&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+I’am YeoJin Cho, a newcomer Frontend-developer 🌱 <br>
+This is my github 
+  
+
+
+<br>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?tab=repositories&url=https%3A%2F%2Fgithub.com%2Fyeojincho&count_bg=%23E9ABFC&title_bg=%23FFA5A5&icon=github.svg&icon_color=%23020202&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 
 <br><br>
 
-<h2>🛠Tech Stack🛠</h2>
+<h2>🛠 Tech Stack 🛠</h2>
   
   ![](https://img.shields.io/badge/-HTML-red?logo=HTML5)
   ![](https://img.shields.io/badge/-CSS-orange?logo=CSS3)
@@ -36,7 +46,7 @@ This is my github
 
 <br><br>
 
-<h2>📮Contact📮</h2>
+<h2>📮 Contact 📮</h2>
 
 
 
@@ -46,7 +56,9 @@ This is my github
 
 <br><br>
 
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&fontSize=90" />
 
 
 
+ </div> 
 
